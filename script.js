@@ -57,7 +57,10 @@ música('Impossível escolher só uma!rs')
 //
 
 
+<<<<<<< HEAD
 /* Falta o ultimo item!*/
 
+=======
+>>>>>>> e540a3de086a2a185943f066177cdaeb3ea13f70
 
 
