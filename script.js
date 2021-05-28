@@ -10,7 +10,6 @@
 */
 
 
-
 //Para fixar: FUNÇÕES: Utilizadas para criarmos uma sequência de operações para serem executadas.
 
 /*
@@ -18,49 +17,51 @@ Parametro seria como uma caracteristica da função, podendo usá-la depois!
 */
 
 
-function ola_mundo(nome) {
+/*function ola_mundo(nome) {
     console.log(nome)
 }
 
 ola_mundo("Hello word!")
-//
+
 
 function meu_nome(nome) {
     console.log(nome);
 }
 meu_nome('Gabriel')
-//
+
 
 var idade = "undefined!"
 function mostrar_idade(idade) {
     console.log("Minha idade : " + idade)
 }
 mostrar_idade(idade)
-//
+
 
 function music(nome) {
     console.log(`Estilo musical favorito : ${nome}`)
 }
 music("Rock 'N' Roll!")
-//
+
 
 function film(nome) {
     console.log(`Filme favorito : ${nome}`)
 }
 film("The Hobbit: The Battle of the Five Armies")
-//
+
 
 function música(nome) {
     console.log(`Música favorita : ${nome}`)
 }
 música('Impossível escolher só uma!rs')
-//
+*/
 
 
-<<<<<<< HEAD
-/* Falta o ultimo item!*/
-
-=======
->>>>>>> e540a3de086a2a185943f066177cdaeb3ea13f70
 
 
+function triplo(num){
+    return num*3
+}
+triplo(3);
+console.log(triplo(3));
+
+//Precisa revisar! Este último! 
